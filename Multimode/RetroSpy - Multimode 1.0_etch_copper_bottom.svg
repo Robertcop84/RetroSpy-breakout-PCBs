@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 141.787 88.4203" width="1.96926in" baseProfile="tiny" x="0in" height="1.22806in" xmlns:svg="http://www.w3.org/2000/svg" version="1.2" y="0in">
+ <g partID="57680">
+  <g  id="board">
+   <rect stroke-width="0.5"  stroke="black" fill="none" width="141.211" id="boardoutline" fill-opacity="0.5" height="87.8443" x="0.288" y="0.288"/>
+  </g>
+ </g>
+ <g partID="854144740">
+  <g transform="translate(53.5594,0.838775)">
+   <g  id="copper0">
+    <circle stroke-width="0.72" cx="6.048"  stroke="black" fill="none" cy="25.7896" id="connector0pad" connectorname="1" r="1.7348"/>
+    <path stroke-width="0"  d="m6.048,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM4.6732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="13.248"  stroke="black" fill="none" cy="25.7896" id="connector1pad" connectorname="2" r="1.7348"/>
+    <path stroke-width="0"  d="m13.248,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM11.8732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="49.248"  stroke="black" fill="none" cy="25.7896" id="connector6pad" connectorname="7" r="1.7348"/>
+    <path stroke-width="0"  d="m49.248,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM47.8732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="56.448"  stroke="black" fill="none" cy="25.7896" id="connector7pad" connectorname="8" r="1.7348"/>
+    <path stroke-width="0"  d="m56.448,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM55.0732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="20.448"  stroke="black" fill="none" cy="25.7896" id="connector2pad" connectorname="3" r="1.7348"/>
+    <path stroke-width="0"  d="m20.448,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM19.0732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="27.648"  stroke="black" fill="none" cy="25.7896" id="connector3pad" connectorname="4" r="1.7348"/>
+    <path stroke-width="0"  d="m27.648,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM26.2732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="42.048"  stroke="black" fill="none" cy="25.7896" id="connector5pad" connectorname="6" r="1.7348"/>
+    <path stroke-width="0"  d="m42.048,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM40.6732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="34.848"  stroke="black" fill="none" cy="25.7896" id="connector4pad" connectorname="5" r="1.7348"/>
+    <path stroke-width="0"  d="m34.848,21.6a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM33.4732,25.7896a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="56.448"  stroke="black" fill="none" cy="4.18961" id="connector8pad" connectorname="9" r="1.7348"/>
+    <path stroke-width="0"  d="m56.448,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM55.0732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="49.248"  stroke="black" fill="none" cy="4.18961" id="connector9pad" connectorname="10" r="1.7348"/>
+    <path stroke-width="0"  d="m49.248,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM47.8732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="42.048"  stroke="black" fill="none" cy="4.18961" id="connector10pad" connectorname="11" r="1.7348"/>
+    <path stroke-width="0"  d="m42.048,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM40.6732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="34.848"  stroke="black" fill="none" cy="4.18961" id="connector11pad" connectorname="12" r="1.7348"/>
+    <path stroke-width="0"  d="m34.848,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM33.4732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="27.648"  stroke="black" fill="none" cy="4.18961" id="connector12pad" connectorname="13" r="1.7348"/>
+    <path stroke-width="0"  d="m27.648,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM26.2732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="20.448"  stroke="black" fill="none" cy="4.18961" id="connector13pad" connectorname="14" r="1.7348"/>
+    <path stroke-width="0"  d="m20.448,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM19.0732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="13.248"  stroke="black" fill="none" cy="4.18961" id="connector14pad" connectorname="15" r="1.7348"/>
+    <path stroke-width="0"  d="m13.248,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM11.8732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+    <circle stroke-width="0.72" cx="6.048"  stroke="black" fill="none" cy="4.18961" id="connector15pad" connectorname="16" r="1.7348"/>
+    <path stroke-width="0"  d="m6.048,0a2.0948,2.0948,0,0,1,2.0948,2.0948l0,4.18961a2.0948,2.0948,0,0,1,-2.0948,2.0948l0,0a2.0948,2.0948,0,0,1,-2.0948,-2.0948l0,-4.18961a2.0948,2.0948,0,0,1,2.0948,-2.0948l0,0zM4.6732,4.18961a1.3748,1.3748,0,1,0,2.74961,0,1.3748,1.3748,0,1,0,-2.74961,0z" stroke="none" fill="black"/>
+   </g>
+  </g>
+ </g>
+ <g partID="59940">
+  <g transform="translate(3.60249,88.3682)">
+   <g transform="matrix(0,-1,1,0,0,0)">
+    <g  id="copper0">
+     <circle stroke-width="1.224" cx="28.2376"  stroke="black" fill="none" cy="11.5132" id="connector6pad" connectorname="5" r="2.052"/>
+     <path stroke-width="0"  d="m25.5736,8.84919,5.32801,0,0,5.32799,-5.32801,0,0,-5.32799zM26.7976,11.5132a1.44,1.44,0,1,0,2.88,0,1.44,1.44,0,1,0,-2.88,0z" stroke="none" fill="black"/>
+     <circle stroke-width="1.224" cx="36.0896"  stroke="black" fill="none" cy="11.5132" id="connector5pad" connectorname="4" r="2.052"/>
+     <circle stroke-width="1.224" cx="43.9416"  stroke="black" fill="none" cy="11.5132" id="connector4pad" connectorname="3" r="2.052"/>
+     <circle stroke-width="1.224" cx="51.7936"  stroke="black" fill="none" cy="11.5132" id="connector3pad" connectorname="2" r="2.052"/>
+     <circle stroke-width="1.224" cx="59.6456"  stroke="black" fill="none" cy="11.5132" id="connector1pad" connectorname="1" r="2.052"/>
+     <circle stroke-width="1.224" cx="32.1778"  stroke="black" fill="none" cy="3.4628" id="connector10pad" connectorname="9" r="2.052"/>
+     <circle stroke-width="1.224" cx="40.0298"  stroke="black" fill="none" cy="3.4628" id="connector9pad" connectorname="8" r="2.052"/>
+     <circle stroke-width="1.224" cx="47.8534"  stroke="black" fill="none" cy="3.4628" id="connector8pad" connectorname="7" r="2.052"/>
+     <circle stroke-width="1.224" cx="55.7054"  stroke="black" fill="none" cy="3.4628" id="connector7pad" connectorname="6" r="2.052"/>
+     <circle stroke-width="2.52" cx="8.50848"  stroke="black" fill="none" cy="7.48799" id="connector0pad" connectorname="G1" r="5.94001"/>
+     <circle stroke-width="2.52" cx="79.3747"  stroke="black" fill="none" cy="7.48799" id="connector2pad" connectorname="G2" r="5.94001"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g partID="60080">
+  <g transform="translate(20.0001,81.5626)">
+   <g transform="matrix(0,-1,1,0,0,0)">
+    <g  id="copper0">
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="10.8" id="connector16pad" r="1.908"/>
+     <rect stroke-width="1.224"  stroke="black" fill="none" width="3.814" x="1.692" height="3.816" y="8.892"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="18" id="connector17pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="25.2" id="connector18pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="32.4" id="connector19pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="39.6" id="connector20pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="46.8" id="connector21pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="54" id="connector22pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="61.2" id="connector23pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="68.4" id="connector24pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="75.6" id="connector25pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="82.8" id="connector26pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="90" id="connector27pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="97.2" id="connector28pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="104.4" id="connector29pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="3.6"  stroke="black" fill="none" cy="111.6" id="connector30pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="10.8" id="connector31pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="18" id="connector32pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="25.2" id="connector33pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="32.4" id="connector34pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="39.6" id="connector35pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="46.8" id="connector36pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="54" id="connector37pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="61.2" id="connector38pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="68.4" id="connector39pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="75.6" id="connector40pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="82.8" id="connector41pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="90" id="connector42pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="97.2" id="connector43pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="104.4" id="connector44pad" r="1.908"/>
+     <circle stroke-width="1.224" cx="46.8"  stroke="black" fill="none" cy="111.6" id="connector45pad" r="1.908"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g partID="854211000">
+  <g transform="translate(2.46677,18.6973)">
+   <g  id="copper0">
+    <circle stroke-width="0.850392" cx="3.01732"  stroke="black" fill="none" cy="3.01732" id="connector0pin" r="0.992124"/>
+   </g>
+  </g>
+ </g>
+ <g partID="854211300">
+  <g transform="translate(35.2988,37.7053)">
+   <g  id="copper0">
+    <circle stroke-width="0.850392" cx="3.01732"  stroke="black" fill="none" cy="3.01732" id="connector0pin" r="0.992124"/>
+   </g>
+  </g>
+ </g>
+ <g partID="854211400">
+  <g transform="translate(24.9308,25.6093)">
+   <g  id="copper0">
+    <circle stroke-width="0.850392" cx="3.01732"  stroke="black" fill="none" cy="3.01732" id="connector0pin" r="0.992124"/>
+   </g>
+  </g>
+ </g>
+ <g partID="854172700">
+  <line x2="68.1822" stroke-width="1.728" stroke-linecap="round" x1="81.7965" y1="5.08817" stroke="black" y2="5.03387"/>
+ </g>
+ <g partID="854172710">
+  <line x2="81.7965" stroke-width="1.728" stroke-linecap="round" x1="75.3822" y1="5.03893" stroke="black" y2="5.08817"/>
+ </g>
+ <g partID="854192000">
+  <line x2="101.433" stroke-width="1.728" stroke-linecap="round" x1="96.9822" y1="5.02838" stroke="black" y2="5.02838"/>
+ </g>
+ <g partID="854191910">
+  <line x2="65.4326" stroke-width="1.728" stroke-linecap="round" x1="60.9822" y1="5.02838" stroke="black" y2="5.02838"/>
+ </g>
+ <g partID="854191860">
+  <line x2="94.2326" stroke-width="1.728" stroke-linecap="round" x1="89.7822" y1="5.02838" stroke="black" y2="5.02838"/>
+ </g>
+ <g partID="854192050">
+  <line x2="108.633" stroke-width="1.728" stroke-linecap="round" x1="104.182" y1="5.02838" stroke="black" y2="5.02838"/>
+ </g>
+ <g partID="854208960">
+  <line x2="78.0601" stroke-width="1.728" stroke-linecap="round" x1="80.6098" y1="76.8089" stroke="black" y2="71.8266"/>
+ </g>
+ <g partID="854209040">
+  <line x2="34.8601" stroke-width="1.728" stroke-linecap="round" x1="78.0601" y1="71.8266" stroke="black" y2="71.8266"/>
+ </g>
+ <g partID="854209060">
+  <line x2="16.139" stroke-width="1.728" stroke-linecap="round" x1="34.8601" y1="71.8266" stroke="black" y2="53.2917"/>
+ </g>
+ <g partID="854209300">
+  <line x2="102.252" stroke-width="1.728" stroke-linecap="round" x1="102.541" y1="76.6929" stroke="black" y2="75.2826"/>
+ </g>
+ <g partID="854209320">
+  <line x2="81.5161" stroke-width="1.728" stroke-linecap="round" x1="102.252" y1="75.2826" stroke="black" y2="67.5066"/>
+ </g>
+ <g partID="854209460">
+  <line x2="36.2578" stroke-width="1.728" stroke-linecap="round" x1="81.5161" y1="67.5066" stroke="black" y2="67.2668"/>
+ </g>
+ <g partID="854209500">
+  <line x2="19.3081" stroke-width="1.728" stroke-linecap="round" x1="36.2578" y1="67.2668" stroke="black" y2="49.3626"/>
+ </g>
+ <g partID="854209580">
+  <line x2="19.3081" stroke-width="1.728" stroke-linecap="round" x1="19.3081" y1="49.3626" stroke="black" y2="23.4426"/>
+ </g>
+ <g partID="854209600">
+  <line x2="12.3961" stroke-width="1.728" stroke-linecap="round" x1="19.3081" y1="23.4426" stroke="black" y2="23.4426"/>
+ </g>
+ <g partID="854209620">
+  <line x2="2.02809" stroke-width="1.728" stroke-linecap="round" x1="12.3961" y1="23.4426" stroke="black" y2="28.6266"/>
+ </g>
+ <g partID="854209720">
+  <line x2="2.02809" stroke-width="1.728" stroke-linecap="round" x1="2.02809" y1="28.6266" stroke="black" y2="37.2666"/>
+ </g>
+ <g partID="854209740">
+  <line x2="5.85508" stroke-width="1.728" stroke-linecap="round" x1="2.02809" y1="37.2666" stroke="black" y2="39.7344"/>
+ </g>
+ <g partID="854210320">
+  <line x2="88.4281" stroke-width="1.728" stroke-linecap="round" x1="88.4088" y1="79.2586" stroke="black" y2="82.1946"/>
+ </g>
+ <g partID="854210360">
+  <line x2="26.2201" stroke-width="1.728" stroke-linecap="round" x1="88.4281" y1="82.1946" stroke="black" y2="82.1946"/>
+ </g>
+ <g partID="854210380">
+  <line x2="21.0361" stroke-width="1.728" stroke-linecap="round" x1="26.2201" y1="82.1946" stroke="black" y2="63.1866"/>
+ </g>
+ <g partID="854210540">
+  <line x2="16.3953" stroke-width="1.728" stroke-linecap="round" x1="21.0361" y1="63.1866" stroke="black" y2="60.7911"/>
+ </g>
+ <g partID="854210580">
+  <line x2="105.072" stroke-width="1.728" stroke-linecap="round" x1="109.336" y1="76.8496" stroke="black" y2="69.7008"/>
+ </g>
+ <g partID="854210760">
+  <line x2="81.507" stroke-width="1.728" stroke-linecap="round" x1="105.072" y1="69.7008" stroke="black" y2="60.9607"/>
+ </g>
+ <g partID="854213220">
+  <line x2="39.7981" stroke-width="1.728" stroke-linecap="round" x1="81.507" y1="60.9607" stroke="black" y2="61.182"/>
+ </g>
+ <g partID="854210860">
+  <line x2="22.7641" stroke-width="1.728" stroke-linecap="round" x1="39.7981" y1="61.182" stroke="black" y2="44.1786"/>
+ </g>
+ <g partID="854210920">
+  <line x2="22.7641" stroke-width="1.728" stroke-linecap="round" x1="22.7641" y1="44.1786" stroke="black" y2="19.9866"/>
+ </g>
+ <g partID="854210940">
+  <line x2="8.83149" stroke-width="1.728" stroke-linecap="round" x1="22.7641" y1="19.9866" stroke="black" y2="19.1809"/>
+ </g>
+ <g partID="854210960">
+  <line x2="5.93613" stroke-width="1.728" stroke-linecap="round" x1="8.83149" y1="19.1809" stroke="black" y2="21.3724"/>
+ </g>
+ <g partID="854211320">
+  <line x2="26.5221" stroke-width="1.728" stroke-linecap="round" x1="37.7492" y1="40.7222" stroke="black" y2="40.7147"/>
+ </g>
+ <g partID="854211360">
+  <line x2="26.2201" stroke-width="1.728" stroke-linecap="round" x1="26.5221" y1="40.7147" stroke="black" y2="28.6266"/>
+ </g>
+ <g partID="854211380">
+  <line x2="27.3812" stroke-width="1.728" stroke-linecap="round" x1="26.2201" y1="28.6266" stroke="black" y2="28.6266"/>
+ </g>
+ <g partID="854211560">
+  <line x2="42.4533" stroke-width="1.728" stroke-linecap="round" x1="38.9927" y1="35.596" stroke="black" y2="38.5021"/>
+ </g>
+ <g partID="854211580">
+  <line x2="136.16" stroke-width="1.728" stroke-linecap="round" x1="42.4533" y1="38.5021" stroke="black" y2="73.241"/>
+ </g>
+ <g partID="854211980">
+  <line x2="136.381" stroke-width="1.728" stroke-linecap="round" x1="136.16" y1="73.241" stroke="black" y2="85.3001"/>
+ </g>
+ <g partID="854212060">
+  <line x2="91.8841" stroke-width="1.728" stroke-linecap="round" x1="136.381" y1="85.3001" stroke="black" y2="85.6506"/>
+ </g>
+ <g partID="854212100">
+  <line x2="21.0361" stroke-width="1.728" stroke-linecap="round" x1="91.8841" y1="85.6506" stroke="black" y2="85.6506"/>
+ </g>
+ <g partID="854212120">
+  <line x2="17.5801" stroke-width="1.728" stroke-linecap="round" x1="21.0361" y1="85.6506" stroke="black" y2="66.6426"/>
+ </g>
+ <g partID="854212220">
+  <line x2="6.8293" stroke-width="1.728" stroke-linecap="round" x1="17.5801" y1="66.6426" stroke="black" y2="66.3817"/>
+ </g>
+ <g partID="854212240">
+  <line x2="7.03195" stroke-width="1.728" stroke-linecap="round" x1="6.8293" y1="66.3817" stroke="black" y2="57.63"/>
+ </g>
+ <g partID="854213670">
+  <line x2="66.8062" stroke-width="1.728" stroke-linecap="round" x1="66.8014" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854213700">
+  <line x2="59.6062" stroke-width="1.728" stroke-linecap="round" x1="59.6014" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854213730">
+  <line x2="81.2062" stroke-width="1.728" stroke-linecap="round" x1="81.2014" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854213760">
+  <line x2="88.4062" stroke-width="1.728" stroke-linecap="round" x1="88.4014" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854213790">
+  <line x2="95.6062" stroke-width="1.728" stroke-linecap="round" x1="95.6014" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854213820">
+  <line x2="102.806" stroke-width="1.728" stroke-linecap="round" x1="102.801" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854213850">
+  <line x2="110.006" stroke-width="1.728" stroke-linecap="round" x1="110.001" y1="33.4666" stroke="black" y2="28.0032"/>
+ </g>
+ <g partID="854214280">
+  <line x2="73.6791" stroke-width="1.728" stroke-linecap="round" x1="73.8807" y1="34.2953" stroke="black" y2="33.507"/>
+ </g>
+ <g partID="854214290">
+  <line x2="73.8807" stroke-width="1.728" stroke-linecap="round" x1="73.9847" y1="28.003" stroke="black" y2="34.2953"/>
+ </g>
+ <g partID="854214340">
+  <line x2="82.5822" stroke-width="1.728" stroke-linecap="round" x1="87.0326" y1="5.02838" stroke="black" y2="5.02838"/>
+ </g>
+</svg>
